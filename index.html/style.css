@@ -1,0 +1,10 @@
+body {
+  background-color: #dde;
+  color: #000;
+}
+body div {
+  padding-top: 2em;
+  color: #f00;
+}
+
+/*# sourceMappingURL=data:application/json;charset=utf8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInN0eWxlLnN0eWwiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUE7RUFDRSxrQkFBa0IsS0FBbEI7RUFDQSxPQUFNLEtBQU47O0FBRUE7RUFDRSxhQUFhLElBQWI7RUFDQSxPQUFNLEtBQU4iLCJmaWxlIjoic3R5bGUuY3NzIiwic291cmNlc0NvbnRlbnQiOlsiYm9keVxuICBiYWNrZ3JvdW5kLWNvbG9yOiAjZGRlXG4gIGNvbG9yICMwMDBcblxuICBkaXZcbiAgICBwYWRkaW5nLXRvcDogMmVtXG4gICAgY29sb3IgcmVkXG5cbiJdfQ== */
